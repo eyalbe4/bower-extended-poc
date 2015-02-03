@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="bin\www name" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="C:/Software/nodejs/node" path-to-js-file="bower-poc" application-parameters="install jquery" working-dir="$PROJECT_DIR$/bin">
+    <envs>
+      <env name="DEBUG" value="bower" />
+    </envs>
+    <browser url="http://localhost:3000/" />
+    <RunnerSettings RunnerId="Basic" />
+    <ConfigurationWrapper RunnerId="Basic" />
+    <method />
+  </configuration>
+</component>
